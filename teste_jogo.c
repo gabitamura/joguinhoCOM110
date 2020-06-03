@@ -85,7 +85,7 @@ do{
     		}
   		}
   printf("\n");
-	} //até aqui é o menu feito
+	} //atÃ© aqui Ã© o menu feito
 printf("\n    Opcao: ");
 scanf("%d", &op);
 printf("\n");
@@ -156,7 +156,7 @@ switch (op){
 		printf("Cada acerto vale um ponto. \n");
 		printf("%s, TOTAL DE PONTOS = %d de 24\n\n", nome, acertos);
 	case 2: 
-	return 0;
+	
 	break;
 
 }
