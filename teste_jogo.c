@@ -140,7 +140,7 @@ switch (op){
 		printf("  D = ");
 		scanf("%d", &resposta[1][1]);
 		printf("\n");
-		Sleep(1000);
+		Sleep(500);
 		system("cls");
 		for(i=0; i<NL; i++){
 			for(j=0; j<NC; j++){
@@ -163,6 +163,5 @@ switch (op){
 }
 while(op!=2);
 
-system("pause");
 return 0;
 }
