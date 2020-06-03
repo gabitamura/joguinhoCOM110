@@ -154,7 +154,7 @@ switch (op){
 		}
 		}
 		printf("Cada acerto vale um ponto. \n");
-		printf("%s, TOTAL DE PONTOS = %d de 24\n\n", nome, acertos);
+		printf("%s, TOTAL DE PONTOS = %d de 20\n\n", nome, acertos);
 	case 2: 
 	
 	break;
